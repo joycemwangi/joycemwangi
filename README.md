@@ -29,10 +29,11 @@
 
 ## 📂 Featured Projects
 
-- [**Network Automation with Ansible**](https://github.com/joycemwangi/network-automation-ansible) – Automated multi-vendor network device configuration using Ansible.
-- [**Multi-Vendor Firewalls Config Backup & Batch Routing**](https://github.com/joycemwangi/multi-vendor-firewalls-config-backup-and-batch-routing) – Automated firewall backups and routing updates for heterogeneous environments.
-- [**Terraform Multi-Vendor Provisioning**](https://github.com/joycemwangi/terraform-multivendor-provisioning) – Infrastructure as Code for provisioning hybrid multi-vendor network environments.
-- [**Python Network Tools**](https://github.com/joycemwangi/python-projects) – Python scripts for network device automation, log parsing, and monitoring.
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joycemwangi/multi-vendor-firewalls-config-backup-and-batch-routing)
 
 ---
 
