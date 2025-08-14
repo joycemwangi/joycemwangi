@@ -18,7 +18,15 @@
 - 🏆 Awards from **Telkom Kenya** for operational excellence  
 
 ---
+## 📂 Featured Projects
 
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joycemwangi/multi-vendor-firewalls-config-backup-and-batch-routing)
+
+---
 ## 🛠️ What I Do
 - Infrastructure as Code (IaC) with Terraform, Ansible, and Bicep  
 - Cloud-native deployments on AWS, Azure, and GCP  
