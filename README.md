@@ -2,10 +2,11 @@
 
 **Cybersecurity, Network, and Cloud Infrastructure Engineer** with 15+ years of experience delivering secure, automated, and highly available infrastructure.
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/joyce-mwangi/badges)  
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.linkedin.com/learning/certificates/e1db3fdd2d0d6f9a3dad687581e184537223131f2c9787b13fff564e0b210007)  
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/joycemwangi/network-automation-ansible)  
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/joycemwangi/terraform-multivendor-provisioning)  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/your-aws-cert-link)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/your-azure-cert-link)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/joycemwangi/ansible-projects)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/joycemwangi/terraform-iac)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joycemwangi/python-projects)
 
 ---
 
