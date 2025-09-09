@@ -16,7 +16,7 @@ I specialize in **network automation, infrastructure as code, Zero Trust securit
 
 ## 📂 Featured Projects
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/wanjajoyce/details/projects/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/wanjajoyce/details/projects/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 [![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)  
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/joycemwangi/network-automation-ansible)
