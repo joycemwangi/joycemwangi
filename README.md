@@ -27,7 +27,7 @@ I specialize in **network automation, infrastructure as code, Zero Trust securit
 ## 🏆 Highlights
 - Telkom Kenya **Employee of the Year** (2017 & 2018)
 - Contributor to large-scale ISP & enterprise network automation
-- Certified in **Google Cybersecurity**, **CCNA**, **JNCIA**, **AWS**, **AWS CloudFormation**,**AZURE**, **Linux**, **Docker & Kubernetes**, **Bash Scripting**
+- Certified in **Google Cybersecurity**, **CCNA**, **JNCIA**, **AWS**, **AWS CloudFormation**,**AZURE**, **GCP**, **Linux**, **Docker & Kubernetes**, **Bash Scripting**
 
 ---
 
