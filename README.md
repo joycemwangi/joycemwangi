@@ -26,6 +26,8 @@ I specialize in **network automation, infrastructure as code, Zero Trust securit
 *Infrastructure as Code and automation for secure, scalable networks*  
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/joycemwangi/network-automation-ansible)  
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/joycemwangi/terraform-multivendor-provisioning)  
+[![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=aws&logoColor=white)](#)  
+[![Bicep](https://img.shields.io/badge/Bicep-0A5BC4?style=for-the-badge&logo=azurepipelines&logoColor=white)](#)  
 
 ### 💻 Programming & Scripting  
 *Automating tasks and workflows with code*  
