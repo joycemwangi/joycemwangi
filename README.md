@@ -7,7 +7,7 @@ I specialize in **network automation, infrastructure as code, Zero Trust securit
 
 ## 💡 Core Skills
 - Network Engineering (Cisco, Juniper, Fortinet, Palo Alto, HPE/Aruba)
-- Cloud Networking (AWS, Azure, GCP)
+- Cloud Networking (AWS, Azure, GCP, OCI)
 - Automation & IaC (Python, Ansible, Terraform, ARM, Bicep, CloudFormation)
 - Security Operations (SIEM, IDS/IPS, NAC, VPN, Zero Trust)
 - Hybrid Cloud & DevOps Practices
