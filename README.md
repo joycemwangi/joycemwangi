@@ -28,6 +28,15 @@ Experienced in network automation, cloud networking, network security, infrastru
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
+### ☁️ Cloud Platforms
+
+*Multi-cloud infrastructure provisioning and networking*
+
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/joycemwangi/terraform-iac-hybrid-deployments)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/joycemwangi/terraform-iac-hybrid-deployments)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/joycemwangi/terraform-iac-hybrid-deployments)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/joycemwangi/terraform-iac-hybrid-deployments)
+
 ### ⚙️ Automation & Infrastructure as Code
 
 *Automating infrastructure deployment, configuration management, and network provisioning*
