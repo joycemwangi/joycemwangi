@@ -29,18 +29,15 @@ Experienced in network automation, cloud networking, network security, infrastru
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
 ### ⚙️ Automation & Infrastructure as Code
+
 *Automating infrastructure deployment, configuration management, and network provisioning*
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joycemwangi)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joycemwangi/multi-vendor-firewalls-config-backup-and-batch-routing)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/joycemwangi/network-automation-ansible)
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/joycemwangi/terraform-multivendor-provisioning)
 [![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![Bicep](https://img.shields.io/badge/Bicep-0A5BC4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-
-### 💻 Programming & Scripting  
-*Automating tasks and workflows with code*  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joycemwangi/multi-vendor-firewalls-config-backup-and-batch-routing)  
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)  
 
 ### 🚀 CI/CD  
 *Continuous integration and delivery pipelines for reliable deployments*  
