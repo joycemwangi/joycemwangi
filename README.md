@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Joyce Mwangi  
 
-Cybersecurity, Network & Cloud Infrastructure Engineer with 15+ years of experience designing, automating, and securing enterprise networks and hybrid cloud environments.  
-I specialize in **network automation, infrastructure as code, Zero Trust security, and multi-vendor integrations**.
+Senior Network & Cloud Infrastructure Engineer with 15+ years of experience building, automating, and securing enterprise, ISP, and cloud network infrastructure.
+
+Experienced in network automation, cloud networking, network security, infrastructure as code, Internet routing, production engineering, and Zero Trust architectures across multi-vendor environments.
 
 ---
 
