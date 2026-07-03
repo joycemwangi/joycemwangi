@@ -7,11 +7,14 @@ Experienced in network automation, cloud networking, network security, infrastru
 ---
 
 ## 💡 Core Skills
-- Network Engineering (Cisco, Juniper, Fortinet, Palo Alto, HPE/Aruba)
-- Cloud Networking (AWS, Azure, GCP, OCI)
-- Automation & IaC (Python, Ansible, Terraform, ARM, Bicep, CloudFormation)
-- Security Operations (SIEM, IDS/IPS, NAC, VPN, Zero Trust)
-- Hybrid Cloud & DevOps Practices
+
+- Routing & Switching (BGP, OSPF, MPLS, EVPN, VXLAN)
+- Network Engineering (Cisco, Juniper, Arista, Fortinet, Palo Alto, HPE Aruba)
+- Network Automation (Python, Ansible, Terraform, CloudFormation, Bicep)
+- Cloud Networking (AWS, Azure, Google Cloud, OCI)
+- Linux & Production Engineering
+- Network & Cloud Security (IAM, Zero Trust, NAC, VPN, IDS/IPS, SIEM)
+- Hybrid Cloud & DevOps
 
 ---
 
