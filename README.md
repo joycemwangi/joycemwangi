@@ -65,6 +65,7 @@ Experienced in network automation, cloud networking, network security, infrastru
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/wanjajoyce](https://linkedin.com/in/wanjajoyce)  
-- **GitHub:** [github.com/joycemwangi](https://github.com/joycemwangi)  
+
+- **LinkedIn:** https://linkedin.com/in/wanjajoyce
 - **Email:** wanjajoyce@yahoo.com
+- **GitHub:** https://github.com/joycemwangi
