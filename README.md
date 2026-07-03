@@ -28,12 +28,14 @@ Experienced in network automation, cloud networking, network security, infrastru
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
 
-### ⚙️ Automation Tools  
-*Infrastructure as Code and automation for secure, scalable networks*  
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/joycemwangi/network-automation-ansible)  
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/joycemwangi/terraform-multivendor-provisioning)  
-[![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=aws&logoColor=white)](#)  
-[![Bicep](https://img.shields.io/badge/Bicep-0A5BC4?style=for-the-badge&logo=azurepipelines&logoColor=white)](#)  
+### ⚙️ Automation & Infrastructure as Code
+*Automating infrastructure deployment, configuration management, and network provisioning*
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/joycemwangi)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/joycemwangi/network-automation-ansible)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/joycemwangi/terraform-multivendor-provisioning)
+[![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![Bicep](https://img.shields.io/badge/Bicep-0A5BC4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 
 ### 💻 Programming & Scripting  
 *Automating tasks and workflows with code*  
