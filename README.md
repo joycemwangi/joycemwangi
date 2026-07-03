@@ -50,10 +50,18 @@ Experienced in network automation, cloud networking, network security, infrastru
 ---
 
 ## 🏆 Highlights
-- Telkom Kenya **Employee of the Year** (2017 & 2018)
-- Contributor to large-scale ISP & enterprise network automation
-- Certified in **Google Cybersecurity**, **CCNA**, **JNCIA**, **AWS**, **AWS CloudFormation**, **AZURE**, **GCP**, **Linux**, **Docker & Kubernetes**, **Bash Scripting**
 
+- Recipient of three performance awards at Telkom Kenya:
+  - Certificate of Recognition – Best Performer, IT & VAS (2022)
+  - Certificate of Excellence – Going Above and Beyond (2021)
+  - Certificate of Appreciation – Exemplary Performance (2019)
+
+- Designed, automated, and secured enterprise, ISP, and cloud network infrastructure.
+
+- AWS Certified Advanced Networking – Specialty | AWS CloudFormation | CCNA | JNCIA | Google Cybersecurity Professional Certificate | Cisco ASA Firewall Specialist
+
+- Skilled in AWS, Azure, Google Cloud, Oracle Cloud Infrastructure (OCI), Linux, Docker, Kubernetes, MySQL, PostgreSQL, and Bash scripting.
+  
 ---
 
 ## 📫 Connect with Me
